@@ -2,7 +2,7 @@
 
 function Navbar() {
   return (
-    <div>
+    <div style={{backgroundColor:"white",borderColor:"white"}}>
  <nav className="navbar bg-body-tertiary">
   <div className="container-fluid">
     <img className ="navbar-brand" src="https://ineuron.ai/images/ineuron-logo.png" style={{width:"140px", height: "50px"}}/>
