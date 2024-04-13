@@ -6,6 +6,7 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 import Navbar2 from './components/Navbar2';
 import Hero from './components/Hero';
 import Card from './components/Card';
+import { Axios } from 'axios';
 const web = ReactDOM.createRoot(document.getElementById("root"));
 web.render(<><Navbar/> 
 <Navbar2/>
